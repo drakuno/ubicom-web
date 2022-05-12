@@ -1,6 +1,10 @@
+import React    from "react";
 import ReactDOM from "react-dom/client";
-import App      from "./app.tsx";
+import App      from "./app";
 
-const reactRoot = ReactDOM.createRoot(document.getElementById("react-root"));
-reactRoot.render(<App/>);
+window.addEventListener("DOMContentLoaded",function()
+{
+  const reactRoot = ReactDOM.createRoot(document.getElementById("react-root") as Element);
+  reactRoot.render(<App/>);
+});
 
