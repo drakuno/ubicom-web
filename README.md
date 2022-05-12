@@ -2,9 +2,11 @@
 
 ## Instalación
 
-Correr el comando `npm install`
+Correr el comando `npm install`.
 
-Configurar algún servidor (como Apache) para apuntar al directorio `./dist`
+Copiar el archivo `./config.json.template` a `./config.json` y ajustar contenidos.
+
+Configurar algún servidor (como Apache) para apuntar al directorio `./dist`.
 
 ## Ejecución
 
