@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npm run prepare; esbuild src/index.tsx --bundle --outfile=dist/index.js",
     "start": "npm run prepare; esbuild src/index.tsx --bundle --watch --outfile=dist/index.js;",
-    "prepare": "mkdir dist; cp src/index.html dist/; ln -s $PWD/assets dist/assets",
+    "prepare": "rm -r dist; mkdir dist; cp src/index.html dist/; ln -s $PWD/assets dist/assets",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

@@ -1,9 +1,9 @@
-import React, { useState } from "react";
 import "bootstrap/dist/css/bootstrap.css";
+
 import NavbarElem from "./components/NavbarElem"; //falta agregar componente
 import { Container } from 'react-bootstrap';
 import DataChart from "./components/DataChart";
-import { GivenData, TempData, PresData, LumData } from "/home/isaac/ubicom-web/src/Data";
+import { GivenData, TempData, PresData, LumData } from "./Data";
 import "./css/App.css";
 import TimeFilter from "./components/TimeFilter";
 
