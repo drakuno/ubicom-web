@@ -10,11 +10,11 @@ export default function NavbarElem() {
                     <img
                         alt=""
                         src="assets/Logo.png"
-                        width="30"
-                        height="30"
+                        width="35"
+                        height="35"
                         className="d-inline-block align-top"
                     />{' '}
-                    Ubicom Proyect
+                    <h1>Ubicom Proyect</h1>
                 </Navbar.Brand>
             </Container>
         </Navbar>

@@ -1,0 +1,33 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+
+h1 {
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 40px;
+    margin: 0 0 16px;
+    text-align: center;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.flex-container{
+    display: flex;
+    padding: 25px 25px 25px 25px;
+}
+
+.flex-child{
+    width: 600px;  
+}
+
+.flex-child:first-child{
+    margin-right: 30px;
+}
+
+.filter-box{
+    display: flex; 
+    justify-content: flex-end;
+    width: 500px;
+    padding: 10px 10px 10px 10px;
+}

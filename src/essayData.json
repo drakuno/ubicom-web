@@ -1,0 +1,1004 @@
+[
+    {
+        "fecha": "6/1/2021",
+        "presion": 89.25,
+        "temperatura": 20,
+        "luminosidad": 54.0
+    },
+    {
+        "fecha": "8/26/2021",
+        "presion": 10.102,
+        "temperatura": 25,
+        "luminosidad": 42.687
+    },
+    {
+        "fecha": "2/10/2022",
+        "presion": 83.071,
+        "temperatura": 23,
+        "luminosidad": 18.783
+    },
+    {
+        "fecha": "11/26/2021",
+        "presion": 24.998,
+        "temperatura": 17,
+        "luminosidad": 53.995
+    },
+    {
+        "fecha": "2/13/2022",
+        "presion": 33.469,
+        "temperatura": 19,
+        "luminosidad": 51.622
+    },
+    {
+        "fecha": "2/28/2022",
+        "presion": 35.631,
+        "temperatura": 31,
+        "luminosidad": 36.369
+    },
+    {
+        "fecha": "9/1/2021",
+        "presion": 93.299,
+        "temperatura": 19,
+        "luminosidad": 75.603
+    },
+    {
+        "fecha": "2/6/2022",
+        "presion": 87.351,
+        "temperatura": 22,
+        "luminosidad": 87.525
+    },
+    {
+        "fecha": "9/26/2021",
+        "presion": 70.073,
+        "temperatura": 16,
+        "luminosidad": 60.223
+    },
+    {
+        "fecha": "9/20/2021",
+        "presion": 10.045,
+        "temperatura": 31,
+        "luminosidad": 43.108
+    },
+    {
+        "fecha": "9/15/2021",
+        "presion": 16.118,
+        "temperatura": 23,
+        "luminosidad": 34.971
+    },
+    {
+        "fecha": "5/23/2021",
+        "presion": 48.097,
+        "temperatura": 16,
+        "luminosidad": 24.032
+    },
+    {
+        "fecha": "4/14/2022",
+        "presion": 15.905,
+        "temperatura": 26,
+        "luminosidad": 3.143
+    },
+    {
+        "fecha": "9/6/2021",
+        "presion": 51.564,
+        "temperatura": 16,
+        "luminosidad": 15.254
+    },
+    {
+        "fecha": "12/29/2021",
+        "presion": 83.034,
+        "temperatura": 26,
+        "luminosidad": 17.361
+    },
+    {
+        "fecha": "6/5/2021",
+        "presion": 61.489,
+        "temperatura": 23,
+        "luminosidad": 20.927
+    },
+    {
+        "fecha": "8/26/2021",
+        "presion": 58.301,
+        "temperatura": 16,
+        "luminosidad": 99.688
+    },
+    {
+        "fecha": "5/13/2022",
+        "presion": 58.367,
+        "temperatura": 19,
+        "luminosidad": 87.015
+    },
+    {
+        "fecha": "7/12/2021",
+        "presion": 80.84,
+        "temperatura": 17,
+        "luminosidad": 59.194
+    },
+    {
+        "fecha": "1/30/2022",
+        "presion": 68.293,
+        "temperatura": 27,
+        "luminosidad": 36.911
+    },
+    {
+        "fecha": "10/10/2021",
+        "presion": 95.24,
+        "temperatura": 31,
+        "luminosidad": 49.678
+    },
+    {
+        "fecha": "3/4/2022",
+        "presion": 60.816,
+        "temperatura": 27,
+        "luminosidad": 3.771
+    },
+    {
+        "fecha": "12/10/2021",
+        "presion": 61.021,
+        "temperatura": 21,
+        "luminosidad": 44.406
+    },
+    {
+        "fecha": "10/12/2021",
+        "presion": 4.034,
+        "temperatura": 27,
+        "luminosidad": 33.37
+    },
+    {
+        "fecha": "3/1/2022",
+        "presion": 9.616,
+        "temperatura": 28,
+        "luminosidad": 54.426
+    },
+    {
+        "fecha": "2/18/2022",
+        "presion": 38.448,
+        "temperatura": 19,
+        "luminosidad": 17.384
+    },
+    {
+        "fecha": "9/29/2021",
+        "presion": 1.085,
+        "temperatura": 21,
+        "luminosidad": 9.398
+    },
+    {
+        "fecha": "6/6/2021",
+        "presion": 46.33,
+        "temperatura": 16,
+        "luminosidad": 33.415
+    },
+    {
+        "fecha": "3/5/2022",
+        "presion": 72.095,
+        "temperatura": 16,
+        "luminosidad": 7.429
+    },
+    {
+        "fecha": "8/7/2021",
+        "presion": 25.982,
+        "temperatura": 29,
+        "luminosidad": 50.108
+    },
+    {
+        "fecha": "11/15/2021",
+        "presion": 34.652,
+        "temperatura": 17,
+        "luminosidad": 69.462
+    },
+    {
+        "fecha": "9/1/2021",
+        "presion": 77.945,
+        "temperatura": 25,
+        "luminosidad": 42.867
+    },
+    {
+        "fecha": "9/3/2021",
+        "presion": 12.675,
+        "temperatura": 30,
+        "luminosidad": 11.328
+    },
+    {
+        "fecha": "2/25/2022",
+        "presion": 83.774,
+        "temperatura": 29,
+        "luminosidad": 50.604
+    },
+    {
+        "fecha": "10/21/2021",
+        "presion": 33.658,
+        "temperatura": 24,
+        "luminosidad": 29.551
+    },
+    {
+        "fecha": "8/30/2021",
+        "presion": 29.621,
+        "temperatura": 20,
+        "luminosidad": 99.858
+    },
+    {
+        "fecha": "7/23/2021",
+        "presion": 97.656,
+        "temperatura": 26,
+        "luminosidad": 94.395
+    },
+    {
+        "fecha": "1/26/2022",
+        "presion": 81.415,
+        "temperatura": 21,
+        "luminosidad": 72.42
+    },
+    {
+        "fecha": "8/8/2021",
+        "presion": 41.128,
+        "temperatura": 22,
+        "luminosidad": 39.391
+    },
+    {
+        "fecha": "11/29/2021",
+        "presion": 52.905,
+        "temperatura": 28,
+        "luminosidad": 42.329
+    },
+    {
+        "fecha": "5/10/2022",
+        "presion": 21.946,
+        "temperatura": 32,
+        "luminosidad": 42.324
+    },
+    {
+        "fecha": "8/23/2021",
+        "presion": 64.877,
+        "temperatura": 22,
+        "luminosidad": 11.022
+    },
+    {
+        "fecha": "10/13/2021",
+        "presion": 92.407,
+        "temperatura": 20,
+        "luminosidad": 43.83
+    },
+    {
+        "fecha": "3/2/2022",
+        "presion": 14.628,
+        "temperatura": 24,
+        "luminosidad": 37.304
+    },
+    {
+        "fecha": "9/19/2021",
+        "presion": 10.103,
+        "temperatura": 25,
+        "luminosidad": 67.023
+    },
+    {
+        "fecha": "2/6/2022",
+        "presion": 75.473,
+        "temperatura": 15,
+        "luminosidad": 20.445
+    },
+    {
+        "fecha": "1/13/2022",
+        "presion": 13.037,
+        "temperatura": 23,
+        "luminosidad": 98.69
+    },
+    {
+        "fecha": "1/25/2022",
+        "presion": 41.178,
+        "temperatura": 17,
+        "luminosidad": 76.994
+    },
+    {
+        "fecha": "10/7/2021",
+        "presion": 86.951,
+        "temperatura": 22,
+        "luminosidad": 68.909
+    },
+    {
+        "fecha": "10/2/2021",
+        "presion": 81.484,
+        "temperatura": 30,
+        "luminosidad": 36.21
+    },
+    {
+        "fecha": "2/16/2022",
+        "presion": 92.33,
+        "temperatura": 28,
+        "luminosidad": 23.141
+    },
+    {
+        "fecha": "5/9/2022",
+        "presion": 49.978,
+        "temperatura": 22,
+        "luminosidad": 79.797
+    },
+    {
+        "fecha": "10/10/2021",
+        "presion": 86.818,
+        "temperatura": 32,
+        "luminosidad": 45.687
+    },
+    {
+        "fecha": "12/17/2021",
+        "presion": 41.22,
+        "temperatura": 22,
+        "luminosidad": 35.172
+    },
+    {
+        "fecha": "9/12/2021",
+        "presion": 10.519,
+        "temperatura": 23,
+        "luminosidad": 57.107
+    },
+    {
+        "fecha": "5/30/2021",
+        "presion": 21.79,
+        "temperatura": 32,
+        "luminosidad": 44.887
+    },
+    {
+        "fecha": "10/31/2021",
+        "presion": 50.488,
+        "temperatura": 27,
+        "luminosidad": 92.204
+    },
+    {
+        "fecha": "4/16/2022",
+        "presion": 48.7,
+        "temperatura": 25,
+        "luminosidad": 69.274
+    },
+    {
+        "fecha": "4/26/2022",
+        "presion": 28.946,
+        "temperatura": 17,
+        "luminosidad": 71.051
+    },
+    {
+        "fecha": "4/29/2022",
+        "presion": 50.092,
+        "temperatura": 27,
+        "luminosidad": 60.272
+    },
+    {
+        "fecha": "7/19/2021",
+        "presion": 78.349,
+        "temperatura": 25,
+        "luminosidad": 82.313
+    },
+    {
+        "fecha": "4/11/2022",
+        "presion": 48.091,
+        "temperatura": 20,
+        "luminosidad": 7.31
+    },
+    {
+        "fecha": "12/6/2021",
+        "presion": 41.499,
+        "temperatura": 21,
+        "luminosidad": 74.554
+    },
+    {
+        "fecha": "1/30/2022",
+        "presion": 43.044,
+        "temperatura": 15,
+        "luminosidad": 62.422
+    },
+    {
+        "fecha": "7/20/2021",
+        "presion": 34.97,
+        "temperatura": 16,
+        "luminosidad": 92.861
+    },
+    {
+        "fecha": "9/25/2021",
+        "presion": 74.849,
+        "temperatura": 29,
+        "luminosidad": 56.426
+    },
+    {
+        "fecha": "12/30/2021",
+        "presion": 75.565,
+        "temperatura": 21,
+        "luminosidad": 52.257
+    },
+    {
+        "fecha": "2/24/2022",
+        "presion": 26.517,
+        "temperatura": 31,
+        "luminosidad": 49.181
+    },
+    {
+        "fecha": "12/6/2021",
+        "presion": 86.031,
+        "temperatura": 24,
+        "luminosidad": 19.893
+    },
+    {
+        "fecha": "11/15/2021",
+        "presion": 86.667,
+        "temperatura": 25,
+        "luminosidad": 47.401
+    },
+    {
+        "fecha": "8/5/2021",
+        "presion": 66.601,
+        "temperatura": 26,
+        "luminosidad": 29.074
+    },
+    {
+        "fecha": "10/15/2021",
+        "presion": 35.753,
+        "temperatura": 21,
+        "luminosidad": 20.963
+    },
+    {
+        "fecha": "9/6/2021",
+        "presion": 3.208,
+        "temperatura": 18,
+        "luminosidad": 90.099
+    },
+    {
+        "fecha": "7/16/2021",
+        "presion": 22.606,
+        "temperatura": 16,
+        "luminosidad": 90.773
+    },
+    {
+        "fecha": "8/23/2021",
+        "presion": 51.356,
+        "temperatura": 24,
+        "luminosidad": 23.862
+    },
+    {
+        "fecha": "1/6/2022",
+        "presion": 82.158,
+        "temperatura": 17,
+        "luminosidad": 87.736
+    },
+    {
+        "fecha": "10/30/2021",
+        "presion": 64.569,
+        "temperatura": 27,
+        "luminosidad": 95.084
+    },
+    {
+        "fecha": "10/25/2021",
+        "presion": 59.886,
+        "temperatura": 17,
+        "luminosidad": 89.589
+    },
+    {
+        "fecha": "3/29/2022",
+        "presion": 65.328,
+        "temperatura": 21,
+        "luminosidad": 47.138
+    },
+    {
+        "fecha": "8/17/2021",
+        "presion": 27.994,
+        "temperatura": 15,
+        "luminosidad": 78.872
+    },
+    {
+        "fecha": "2/23/2022",
+        "presion": 98.597,
+        "temperatura": 16,
+        "luminosidad": 16.384
+    },
+    {
+        "fecha": "10/31/2021",
+        "presion": 59.31,
+        "temperatura": 21,
+        "luminosidad": 83.638
+    },
+    {
+        "fecha": "3/17/2022",
+        "presion": 72.677,
+        "temperatura": 23,
+        "luminosidad": 74.384
+    },
+    {
+        "fecha": "3/7/2022",
+        "presion": 84.629,
+        "temperatura": 20,
+        "luminosidad": 26.704
+    },
+    {
+        "fecha": "2/25/2022",
+        "presion": 13.438,
+        "temperatura": 20,
+        "luminosidad": 59.885
+    },
+    {
+        "fecha": "9/4/2021",
+        "presion": 96.569,
+        "temperatura": 22,
+        "luminosidad": 20.35
+    },
+    {
+        "fecha": "1/26/2022",
+        "presion": 81.764,
+        "temperatura": 29,
+        "luminosidad": 13.891
+    },
+    {
+        "fecha": "12/30/2021",
+        "presion": 9.729,
+        "temperatura": 26,
+        "luminosidad": 81.105
+    },
+    {
+        "fecha": "9/3/2021",
+        "presion": 61.997,
+        "temperatura": 24,
+        "luminosidad": 13.989
+    },
+    {
+        "fecha": "2/15/2022",
+        "presion": 8.182,
+        "temperatura": 31,
+        "luminosidad": 56.514
+    },
+    {
+        "fecha": "6/4/2021",
+        "presion": 13.453,
+        "temperatura": 26,
+        "luminosidad": 46.246
+    },
+    {
+        "fecha": "10/17/2021",
+        "presion": 79.95,
+        "temperatura": 21,
+        "luminosidad": 67.724
+    },
+    {
+        "fecha": "8/3/2021",
+        "presion": 95.659,
+        "temperatura": 26,
+        "luminosidad": 33.439
+    },
+    {
+        "fecha": "9/4/2021",
+        "presion": 31.709,
+        "temperatura": 30,
+        "luminosidad": 52.978
+    },
+    {
+        "fecha": "11/9/2021",
+        "presion": 9.769,
+        "temperatura": 18,
+        "luminosidad": 3.647
+    },
+    {
+        "fecha": "2/13/2022",
+        "presion": 93.125,
+        "temperatura": 30,
+        "luminosidad": 73.963
+    },
+    {
+        "fecha": "8/10/2021",
+        "presion": 54.31,
+        "temperatura": 25,
+        "luminosidad": 31.786
+    },
+    {
+        "fecha": "8/15/2021",
+        "presion": 9.409,
+        "temperatura": 19,
+        "luminosidad": 75.867
+    },
+    {
+        "fecha": "7/1/2021",
+        "presion": 19.086,
+        "temperatura": 25,
+        "luminosidad": 57.641
+    },
+    {
+        "fecha": "11/3/2021",
+        "presion": 61.404,
+        "temperatura": 31,
+        "luminosidad": 66.462
+    },
+    {
+        "fecha": "3/13/2022",
+        "presion": 73.917,
+        "temperatura": 25,
+        "luminosidad": 58.24
+    },
+    {
+        "fecha": "7/17/2021",
+        "presion": 90.085,
+        "temperatura": 18,
+        "luminosidad": 89.268
+    },
+    {
+        "fecha": "4/8/2022",
+        "presion": 8.782,
+        "temperatura": 29,
+        "luminosidad": 15.166
+    },
+    {
+        "fecha": "9/6/2021",
+        "presion": 27.571,
+        "temperatura": 21,
+        "luminosidad": 93.193
+    },
+    {
+        "fecha": "4/12/2022",
+        "presion": 55.241,
+        "temperatura": 19,
+        "luminosidad": 90.932
+    },
+    {
+        "fecha": "3/5/2022",
+        "presion": 6.962,
+        "temperatura": 31,
+        "luminosidad": 17.163
+    },
+    {
+        "fecha": "12/30/2021",
+        "presion": 27.358,
+        "temperatura": 23,
+        "luminosidad": 30.788
+    },
+    {
+        "fecha": "5/4/2022",
+        "presion": 81.791,
+        "temperatura": 31,
+        "luminosidad": 73.694
+    },
+    {
+        "fecha": "10/24/2021",
+        "presion": 1.597,
+        "temperatura": 26,
+        "luminosidad": 4.182
+    },
+    {
+        "fecha": "2/7/2022",
+        "presion": 47.084,
+        "temperatura": 30,
+        "luminosidad": 29.834
+    },
+    {
+        "fecha": "11/26/2021",
+        "presion": 63.349,
+        "temperatura": 16,
+        "luminosidad": 38.467
+    },
+    {
+        "fecha": "8/12/2021",
+        "presion": 76.194,
+        "temperatura": 31,
+        "luminosidad": 65.672
+    },
+    {
+        "fecha": "1/29/2022",
+        "presion": 85.496,
+        "temperatura": 15,
+        "luminosidad": 75.478
+    },
+    {
+        "fecha": "9/26/2021",
+        "presion": 93.366,
+        "temperatura": 20,
+        "luminosidad": 56.327
+    },
+    {
+        "fecha": "3/23/2022",
+        "presion": 50.264,
+        "temperatura": 15,
+        "luminosidad": 85.075
+    },
+    {
+        "fecha": "7/3/2021",
+        "presion": 46.673,
+        "temperatura": 30,
+        "luminosidad": 7.891
+    },
+    {
+        "fecha": "10/7/2021",
+        "presion": 52.893,
+        "temperatura": 21,
+        "luminosidad": 37.096
+    },
+    {
+        "fecha": "6/21/2021",
+        "presion": 7.372,
+        "temperatura": 32,
+        "luminosidad": 50.422
+    },
+    {
+        "fecha": "12/5/2021",
+        "presion": 44.353,
+        "temperatura": 30,
+        "luminosidad": 68.763
+    },
+    {
+        "fecha": "1/16/2022",
+        "presion": 93.62,
+        "temperatura": 26,
+        "luminosidad": 96.948
+    },
+    {
+        "fecha": "9/11/2021",
+        "presion": 74.667,
+        "temperatura": 23,
+        "luminosidad": 48.612
+    },
+    {
+        "fecha": "3/9/2022",
+        "presion": 25.4,
+        "temperatura": 27,
+        "luminosidad": 43.269
+    },
+    {
+        "fecha": "3/24/2022",
+        "presion": 74.001,
+        "temperatura": 25,
+        "luminosidad": 41.611
+    },
+    {
+        "fecha": "5/18/2021",
+        "presion": 7.623,
+        "temperatura": 31,
+        "luminosidad": 99.778
+    },
+    {
+        "fecha": "10/14/2021",
+        "presion": 18.504,
+        "temperatura": 22,
+        "luminosidad": 4.064
+    },
+    {
+        "fecha": "4/27/2022",
+        "presion": 32.289,
+        "temperatura": 17,
+        "luminosidad": 72.662
+    },
+    {
+        "fecha": "8/17/2021",
+        "presion": 11.956,
+        "temperatura": 24,
+        "luminosidad": 12.038
+    },
+    {
+        "fecha": "10/9/2021",
+        "presion": 56.827,
+        "temperatura": 15,
+        "luminosidad": 76.745
+    },
+    {
+        "fecha": "11/28/2021",
+        "presion": 52.675,
+        "temperatura": 31,
+        "luminosidad": 52.912
+    },
+    {
+        "fecha": "4/21/2022",
+        "presion": 57.47,
+        "temperatura": 27,
+        "luminosidad": 74.293
+    },
+    {
+        "fecha": "2/6/2022",
+        "presion": 13.181,
+        "temperatura": 29,
+        "luminosidad": 49.461
+    },
+    {
+        "fecha": "5/12/2022",
+        "presion": 13.988,
+        "temperatura": 18,
+        "luminosidad": 71.634
+    },
+    {
+        "fecha": "2/13/2022",
+        "presion": 42.61,
+        "temperatura": 29,
+        "luminosidad": 49.247
+    },
+    {
+        "fecha": "6/11/2021",
+        "presion": 93.241,
+        "temperatura": 25,
+        "luminosidad": 20.872
+    },
+    {
+        "fecha": "5/23/2021",
+        "presion": 31.552,
+        "temperatura": 23,
+        "luminosidad": 23.396
+    },
+    {
+        "fecha": "8/29/2021",
+        "presion": 13.678,
+        "temperatura": 25,
+        "luminosidad": 36.553
+    },
+    {
+        "fecha": "1/19/2022",
+        "presion": 52.951,
+        "temperatura": 23,
+        "luminosidad": 46.582
+    },
+    {
+        "fecha": "3/3/2022",
+        "presion": 57.099,
+        "temperatura": 29,
+        "luminosidad": 64.785
+    },
+    {
+        "fecha": "8/26/2021",
+        "presion": 28.058,
+        "temperatura": 18,
+        "luminosidad": 31.041
+    },
+    {
+        "fecha": "5/14/2022",
+        "presion": 68.055,
+        "temperatura": 20,
+        "luminosidad": 81.4
+    },
+    {
+        "fecha": "10/6/2021",
+        "presion": 13.074,
+        "temperatura": 20,
+        "luminosidad": 2.778
+    },
+    {
+        "fecha": "9/14/2021",
+        "presion": 85.895,
+        "temperatura": 23,
+        "luminosidad": 66.3
+    },
+    {
+        "fecha": "8/30/2021",
+        "presion": 4.938,
+        "temperatura": 15,
+        "luminosidad": 52.763
+    },
+    {
+        "fecha": "3/29/2022",
+        "presion": 57.515,
+        "temperatura": 21,
+        "luminosidad": 75.043
+    },
+    {
+        "fecha": "10/29/2021",
+        "presion": 62.268,
+        "temperatura": 30,
+        "luminosidad": 78.41
+    },
+    {
+        "fecha": "9/19/2021",
+        "presion": 52.961,
+        "temperatura": 32,
+        "luminosidad": 24.691
+    },
+    {
+        "fecha": "2/12/2022",
+        "presion": 91.127,
+        "temperatura": 24,
+        "luminosidad": 11.904
+    },
+    {
+        "fecha": "11/5/2021",
+        "presion": 39.021,
+        "temperatura": 27,
+        "luminosidad": 46.133
+    },
+    {
+        "fecha": "1/16/2022",
+        "presion": 82.764,
+        "temperatura": 17,
+        "luminosidad": 9.404
+    },
+    {
+        "fecha": "7/4/2021",
+        "presion": 56.689,
+        "temperatura": 26,
+        "luminosidad": 43.997
+    },
+    {
+        "fecha": "3/3/2022",
+        "presion": 9.441,
+        "temperatura": 25,
+        "luminosidad": 33.986
+    },
+    {
+        "fecha": "7/3/2021",
+        "presion": 71.745,
+        "temperatura": 22,
+        "luminosidad": 77.011
+    },
+    {
+        "fecha": "7/15/2021",
+        "presion": 92.273,
+        "temperatura": 21,
+        "luminosidad": 31.707
+    },
+    {
+        "fecha": "10/5/2021",
+        "presion": 3.191,
+        "temperatura": 23,
+        "luminosidad": 31.305
+    },
+    {
+        "fecha": "12/6/2021",
+        "presion": 92.752,
+        "temperatura": 31,
+        "luminosidad": 18.216
+    },
+    {
+        "fecha": "7/20/2021",
+        "presion": 78.66,
+        "temperatura": 24,
+        "luminosidad": 94.067
+    },
+    {
+        "fecha": "4/13/2022",
+        "presion": 82.27,
+        "temperatura": 28,
+        "luminosidad": 90.328
+    },
+    {
+        "fecha": "8/9/2021",
+        "presion": 81.069,
+        "temperatura": 29,
+        "luminosidad": 86.531
+    },
+    {
+        "fecha": "5/2/2022",
+        "presion": 76.471,
+        "temperatura": 21,
+        "luminosidad": 90.01
+    },
+    {
+        "fecha": "10/31/2021",
+        "presion": 73.82,
+        "temperatura": 25,
+        "luminosidad": 3.949
+    },
+    {
+        "fecha": "5/27/2021",
+        "presion": 8.053,
+        "temperatura": 32,
+        "luminosidad": 7.919
+    },
+    {
+        "fecha": "11/11/2021",
+        "presion": 12.006,
+        "temperatura": 21,
+        "luminosidad": 54.856
+    },
+    {
+        "fecha": "12/24/2021",
+        "presion": 79.493,
+        "temperatura": 29,
+        "luminosidad": 32.16
+    },
+    {
+        "fecha": "7/9/2021",
+        "presion": 70.733,
+        "temperatura": 17,
+        "luminosidad": 50.636
+    },
+    {
+        "fecha": "7/19/2021",
+        "presion": 42.769,
+        "temperatura": 15,
+        "luminosidad": 14.719
+    },
+    {
+        "fecha": "1/15/2022",
+        "presion": 45.735,
+        "temperatura": 17,
+        "luminosidad": 90.344
+    },
+    {
+        "fecha": "9/9/2021",
+        "presion": 24.685,
+        "temperatura": 30,
+        "luminosidad": 30.679
+    }
+]

@@ -1,37 +1,63 @@
 import React, { useState } from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import NavbarElem from "./components/NavbarElem"; //falta agregar componente
-import { Container}  from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
 import DataChart from "./components/DataChart";
-import { GivenData } from "/home/isaac/ubicom-web/src/Data";
+import { GivenData, TempData, PresData, LumData } from "/home/isaac/ubicom-web/src/Data";
+import "./css/App.css";
+import TimeFilter from "./components/TimeFilter";
 
 export default class App extends React.Component {
-  constructor(props:any){
+  constructor(props: any) {
     super(props)
     this.state = {
-      labels: GivenData.map((data: { year: any; })=>data.year),
+      labels: GivenData.map((data: { year: any; }) => data.year),
       datasets: [{
         label: "Some label",
-        data: GivenData.map((data: { userGain: any; })=>data.userGain),
+        data: GivenData.map((data: { userGain: any; }) => data.userGain),
+        borderColor: "#337DFF",
+        backgroundColor: "white"
       }]
     }
   }
+  
 
   render() {
-    /*const [givenData,setGivenData] = useState({
-      labels: GivenData.map((data: { year: any; })=>data.year),
-      datasets: [{
-        label: "Some label",
-        data: GivenData.map((data: { userGain: any; })=>data.userGain),
-
-      }]
-    })*/
     return (
       <React.Fragment>
         <NavbarElem></NavbarElem>
-        <p>Hello, World!! Isaac</p>
         <Container fluid>
-          <DataChart chartData={this.state}></DataChart>
+          <div className="filter-box">
+            <TimeFilter></TimeFilter>
+          </div>
+          <div className="flex-container">
+            <div className="flex-child">
+              <h2>Datos en vivo</h2>
+              <DataChart chartData={TempData}></DataChart>
+            </div>
+            <div className="flex-child">
+            <h2>Datos históricos</h2>
+              <DataChart chartData={TempData}></DataChart>
+            </div>
+          </div>
+
+          <div className="flex-container">
+            <div className="flex-child">              
+              <DataChart chartData={PresData}></DataChart>
+            </div>
+            <div className="flex-child">
+              <DataChart chartData={PresData}></DataChart>
+            </div>
+          </div>
+
+          <div className="flex-container">
+            <div className="flex-child">
+              <DataChart chartData={LumData}></DataChart>
+            </div>
+            <div className="flex-child">          
+              <DataChart chartData={LumData}></DataChart>
+            </div>
+          </div>
         </Container>
       </React.Fragment>
     );

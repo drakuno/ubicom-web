@@ -1,0 +1,27 @@
+[
+    {
+        "_id": "6286a36cf318335124e25ebc",
+        "datetime": "2022-05-09T22:38:15-05:00",
+        "valores": {
+            "humedad": 12.892,
+            "temperatura": 26.72
+        }
+    },
+    {
+        "_id": "6286a50f9c6481e8b7ae1b70",
+        "datetime": "2022-05-09T22:38:15-06:00",
+        "valores": {
+            "humedad": 4.892,
+            "temperatura": null
+        }
+    },
+    {
+        "_id": "6286a50f9c6481e8b7ae1b70",
+        "datetime": "2022-05-09T22:38:15-06:00",
+        "valores": {
+            "humedad": 11.892,
+            "temperatura": null,
+            "luminosidad": 34.123
+        }
+    }
+]

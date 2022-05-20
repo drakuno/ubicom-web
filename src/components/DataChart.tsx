@@ -23,8 +23,8 @@ import {
   )
 //import Chart from 'chart.js/auto';
 
-export default function DataChart({chartData}:{chartData:any}) {
+export default function DataChart({chartData}:{chartData:any}) {  
     return(
-        <Line data={chartData}/>
+        <Line data={chartData} width={600} height={200}/>
     )
 }
