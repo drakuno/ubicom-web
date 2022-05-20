@@ -1,11 +1,14 @@
 import "bootstrap/dist/css/bootstrap.css";
-
-import NavbarElem from "./components/NavbarElem"; //falta agregar componente
-import { Container } from 'react-bootstrap';
-import DataChart from "./components/DataChart";
-import { GivenData, TempData, PresData, LumData } from "./Data";
 import "./css/App.css";
-import TimeFilter from "./components/TimeFilter";
+
+import React from "react";
+
+import { Container } from 'react-bootstrap';
+import NavbarElem    from "./components/NavbarElem"; //falta agregar componente
+import DataChart     from "./components/DataChart";
+
+import { GivenData, TempData, PresData, LumData } from "./Data";
+import TimeFilter                                 from "./components/TimeFilter";
 
 export default class App extends React.Component {
   constructor(props: any) {
